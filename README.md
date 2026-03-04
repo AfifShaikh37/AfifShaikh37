@@ -9,10 +9,10 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="mailto:ASPATIL2904@GMAIL.COM">
+  <a href="mailto:AFIFSHAIKH.375@GMAIL.COM">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/iam_adi29">
+  
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <!-- Add your LinkedIn or Twitter here if you want! -->
@@ -23,7 +23,7 @@
 
 ## 💫 About Me
 
-I’m *Adityaraj Patil*, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
+I’m *Afif Shaikh*, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
 
 - 🏢 I currently work as a *Mentor & Trainer, delivering technical guidance and project-based learning under **DevineTech Solutions*, where I focus on practical development, architecture clarity, and industry-ready skills.
 - 💼 Alongside this, I am actively working with *Dexpert Systems*, contributing to development and learning in advanced system design and modern technology stacks.
@@ -83,31 +83,6 @@ I’m *Adityaraj Patil*, a passionate Full Stack Developer, Mentor, and Technica
 
 <br>
 
-## 🚀 Upcoming Projects
-
-1. *FLAT MATE* - [Upcoming]
-2. *NODE NET* - [Upcoming]
-3. *ENGIWORLD* - [Upcoming]
-4. *TEAMO :DIY STORE* - [Upcoming]
-5. *DAILY ROUTINE TRACKER* - [Upcoming]
-
----
-
-## 🛠️ IoT Projects (Patented)
-
-1. *WOMEN SAFETY DEVICE* 
-2. *IOT BASED NOVEL SCENNER*
-
----
-
-## 📖 Author of Books
-
-1. *LAST SIX DAYS*
-2. *THE LOVE I CANT HOLD*
-3. *THE TUNNEL PARADOX*
-4. *I KILLED MYSELF*
-5. *THE FALL OF YASAKA*
-6. *IS THIS FIRST ?*
 
 
 ## 📊 GitHub Stats
